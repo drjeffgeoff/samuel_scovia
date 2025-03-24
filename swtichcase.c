@@ -11,8 +11,8 @@ int main()
 
     case 2:
         printf("Tuesdsy \n");
-        break;
-
+        break; //Exit a loop or statement
+        
     case 3:
         printf("Wednesday \n");
         break;
